@@ -25,7 +25,7 @@ public class Main {
             System.out.print("Enter choice: ");
             choice = scanner.nextInt();
                     
-            scanner.nextLine(); // clear input buffer
+            scanner.nextLine(); 
 
             switch (choice) {
                 case 1:
